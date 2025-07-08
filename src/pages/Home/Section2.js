@@ -14,13 +14,13 @@ const mockData = [
   },
   {
     image: Salad,
-    title: "Qualty Foods",
+    title: "Qualty Foods",},
     
   {
     image: Delivery,
     title: "Fastest Delivery",
    
-  // Add more mock data objects as needed
+  },
 ];
 
 function Section2() {
